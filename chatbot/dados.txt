@@ -1,0 +1,11 @@
+
+Cliente: Oi!
+Chatbot: Olá, tudo bem?
+Cliente: oi
+Chatbot: Olá tudo bem?
+Cliente: Oi
+Chatbot: Olá tudo bem?
+Cliente: oi!
+Chatbot: Olá tudo bem
+Cliente: fim
+Chatbot: Tchau
